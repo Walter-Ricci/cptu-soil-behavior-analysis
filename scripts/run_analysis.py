@@ -1,0 +1,5 @@
+"""Convenience wrapper for running from a source checkout."""
+from cptu_analysis.cli import main
+
+if __name__ == "__main__":
+    main()
